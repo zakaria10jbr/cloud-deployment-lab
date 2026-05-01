@@ -108,7 +108,7 @@ CPU spike visible on Grafana during the test — confirming live metric capture.
 
 ##  Full Report
 
- [cloud_project.pdf](./Cloud_Lab_Repport.pdf)
+ [Cloud_Lab_Repport.pdf](./Cloud_Lab_Repport.pdf)
 
 ---
 
